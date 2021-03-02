@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'd_00utdw0ggan7hzppf*p*i5f24sei_sd)h0f5ymj4c4d9$_nt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['mydjangopollsapp.herokuapp.com', 'localhost', '127.0.0.1'] in settings.py
 
